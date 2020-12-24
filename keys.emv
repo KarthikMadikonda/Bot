@@ -1,0 +1,18 @@
+GLITCH_DEBUGGER=
+# Environment Config
+
+# store your secrets and config variables in here
+# only invited collaborators will be able to see your .env values
+
+# reference these in your code with process.env.SECRET
+
+FB_PAGE_TOKEN=EAAPmsU2yeaUBANjl9psXsank0ax3LLEnzCj3zUN9RDegE2KLso2sICEqkGjwZCmiLGeLrTPDMltRXGxPuEp170QjVr5CmTCLZBVCB3JCZCT1zqy1K7H0FkOLImclPNZBDTCtYxqAkZAGnZCVhWKWvtNS6x9TvgcHmPGh5hp1eXDCS5TRYSYgqkK6rIBeBYYjQZD
+# note: .env is a shell file so there can't be spaces around =
+ # Scrubbed by Glitch 2020-05-14T17:32:47+0000
+
+FB_VERIFY_TOKEN=anjleedev1
+WIT_TOKEN=3LFIQNVEEZM5PSYID55QNLP6KOCKNTPO
+FB_APP_SECRET=42bcb68d8afe386f4b9c9182fdb9011d
+ # Scrubbed by Glitch 2020-05-27T14:31:22+0000
+ # Scrubbed by Glitch 2020-05-27T16:08:25+0000
+ # Scrubbed by Glitch 2020-11-26T07:36:58+0000
